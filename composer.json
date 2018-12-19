@@ -1,5 +1,5 @@
 {
-    "name": "pinfirestudios/yii1-pjax",
+    "name": "zhuzhu/yii1-pjax",
     "description": "Backport of Yii 2's Pjax widget for use in Yii 1",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"pinfirestudios\\yii1pjax\\": "src/"
+			"zhuzhu\\yii1pjax\\": "src/"
 		}
 	}
 }

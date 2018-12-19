@@ -1,5 +1,5 @@
 <?php
-namespace pinfirestudios\yii1pjax;
+namespace zhuzhu\yii1pjax;
 
 use Yii;
 use CClientScript;
